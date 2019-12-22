@@ -4,6 +4,7 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "display": "standalone",
+  "orientation": "landscape",
   "Scope": ".",
   "start_url": ".",
   "icons": [
